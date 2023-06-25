@@ -7,7 +7,7 @@ Each directory has a violation of the respective SOLID principle, and a refactor
 
 `SOLID/02.OpenClosed` Open/Closed Principle (OCP): Software entities (classes, modules, etc.) should be open for extension but closed for modification, allowing new functionality to be added without altering existing code.
 
-`SOLID/03LiskovSubstitution` Liskov Substitution Principle (LSP): Subtypes should be substitutable for their base types without affecting the correctness of the program. In other words, derived classes should be able to be used interchangeably with their base classes.
+`SOLID/03.LiskovSubstitution` Liskov Substitution Principle (LSP): Subtypes should be substitutable for their base types without affecting the correctness of the program. In other words, derived classes should be able to be used interchangeably with their base classes.
 
 `SOLID/04.InterfaceSegregation` Interface Segregation Principle (ISP): Clients should not be forced to depend on interfaces they do not use. Interfaces should be specific and tailored to the requirements of individual clients.
 
